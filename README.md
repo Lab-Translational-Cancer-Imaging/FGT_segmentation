@@ -2,7 +2,7 @@
 
 This repository contains the trained network weights for the Radiology paper "Assessing Quantitative Parenchymal Features on Baseline Dynamic Contrast-enhanced MRI and Cancer Occurrence in Women with Extremely Dense Breasts". If you use these network weights, please cite our publication:
 
-> H. Wang, B.H.M. van der Velden, ..., K.G.A. Gilhuijs, Assessing Quantitative Parenchymal Features on Baseline Dynamic Contrast-enhanced MRI and Cancer Occurrence in Women with Extremely Dense Breasts
+> H. Wang, B.H.M. van der Velden, ..., K.G.A. Gilhuijs, Assessing Quantitative Parenchymal Features on Baseline Dynamic Contrast-enhanced MRI and Cancer Occurrence in Women with Extremely Dense Breasts, Radiology 2023
 
 ## Usage
 
