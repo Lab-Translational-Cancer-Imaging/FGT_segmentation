@@ -2,7 +2,7 @@
 
 This repository contains the trained network weights for deep-learning based segmentation of the breast parenchyma in T1-weighted breast MRI, used in the Radiology-published study "Assessing Quantitative Parenchymal Features on Baseline Dynamic Contrast-enhanced MRI and Cancer Occurrence in Women with Extremely Dense Breasts". 
 
-Please note that the deep-learning network has been trained specifically on MRI scans of extremely dense breasts from the Dutch screening population of women aged 50-75 years old. Results may vary when applied to to other populations. If you use these network weights, please cite our publication:
+Please note that the deep-learning network has been trained specifically on MRI scans of women aged 50-75 years old with extremely dense breasts from the Dutch national screening programme. Results may vary when applied to to other populations. If you use these network weights, please cite our publication:
 
 > H. Wang, B.H.M. van der Velden, E. Verburg, M.F. Bakker, R.M. Pijnappel, W.B. Veldhuis, C.H. van Gils, K.G.A. Gilhuijs, Assessing Quantitative Parenchymal Features on Baseline Dynamic Contrast-enhanced MRI and Cancer Occurrence in Women with Extremely Dense Breasts, Radiology 2023
 
@@ -12,4 +12,4 @@ Clone the git repository in your nnU-Net results folder. Two task IDs are includ
 
 The network assumes only one channel: the pre-contrast MRI.
 
-For more details regarding applicability of these network weights, we refer to our paper above, as well as for detailed information regarding the training and testing sets. Feel free to reach out for any questions.
+For more details regarding applicability of these network weights, we refer to our paper above, as well as for detailed information regarding the training and testing sets. Feel free to reach out with any questions.
