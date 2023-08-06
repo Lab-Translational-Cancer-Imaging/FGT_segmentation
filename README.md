@@ -10,7 +10,7 @@ Please note that the deep-learning network has been trained specifically on MRI 
 
 Clone the git repository in your nnU-Net results folder. Two task IDs are included, one for breast MRIs without fat suppression (Task 650) and one for breast MRIs with fat suppression (Task 651). You can then use the weights like any other nnU-Net. For more information on how to use nnU-Net, see https://github.com/MIC-DKFZ/nnUNet
 
-**UPDATE:** Due to the size of the network we share the trained network weights using this link for Task 650 https://surfdrive.surf.nl/files/index.php/s/L24BQNZZEncqtJP and this link for Task 651
+**UPDATE:** Due to the size of the network we share the trained network weights using this link for Task 650 https://surfdrive.surf.nl/files/index.php/s/L24BQNZZEncqtJP and this link for Task 651 https://surfdrive.surf.nl/files/index.php/s/pRoFiowB0D0TGoY
 
 The network assumes only one channel: the pre-contrast MRI.
 
